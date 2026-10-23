@@ -52,18 +52,23 @@
         width: 275px;
         height: 275px;
         margin:0 auto 2rem;
-    }
+    }x
     .about-containers{
         margin-top: 0;
-    }
+    }00
 }
 
 
-@media screen and (max-width: 600px) {
+@mediap screen and (max-width: 600px) {
   #contact,
   footer {
     height: 40vh;
-  }
+  }2
+   .pro-image
+   {
+    height:200px;
+    width:200px;
+   }
   #profile {
     height: 83vh;
     margin-bottom: 0;
